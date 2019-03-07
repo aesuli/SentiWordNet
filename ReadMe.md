@@ -20,12 +20,12 @@ SentiWordNet is distributed under the [Attribution-ShareAlike 4.0 Unported (CC B
 Among the other possibilities, this license allows the use of SentiWordNet in commercial applications, provided that the application mentions the use of SentiWordNet and SentiWordNet is attributed to its authors.
 
 ## Download
-[Click here to download SentiWordnet 3.0](data/SentiWordNet_3.0.0.txt)
+
+[**Download SentiWordnet 3.0**(data/SentiWordNet_3.0.0.txt)
 
 ## Other material
 
 ### Micro-WordNet-Opinion 1.0 & 3.0
-
 
 [Micro-WordNet-Opinion](papers/Micro-WNOp.pdf) is a dataset of human annotations of WordNet synsets that has been used to evaluate SentiWordNet. [**Download Micro-WordNet-Opinion**](data/Micro-WNOp-data.txt)
 
@@ -35,7 +35,7 @@ Micro-WordNet-Opinion 3.0 is the automatic mapping of Micro-WordNet-Opinion to W
 
 We run an experiment collecting users' feedback on the values assigned to synsets:
 
-* [Feedback collected from June 4, 2010 to May 13, 2013.](data/SWN_feedback_20130513.txt) 
+* [**Download the user feedback collected from June 4, 2010 to May 13, 2013**](data/SWN_feedback_20130513.txt) 
 
 The data collection process is detailed in the report: ["The User Feedback on SentiWordNet"](papers/SWNFeedback.pdf)
 
