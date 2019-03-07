@@ -21,7 +21,7 @@ Among the other possibilities, this license allows the use of SentiWordNet in co
 
 ## Download
 
-[**Download SentiWordnet 3.0**(data/SentiWordNet_3.0.0.txt)
+[**Download SentiWordnet 3.0**](data/SentiWordNet_3.0.0.txt)
 
 ## Other material
 
