@@ -20,7 +20,7 @@ SentiWordNet is distributed under the [Attribution-ShareAlike 4.0 Unported (CC B
 Among the other possibilities, this license allows the use of SentiWordNet in commercial applications, provided that the application mentions the use of SentiWordNet and SentiWordNet is attributed to its authors.
 
 ## Download
-<div style="text-align:center;"> <a href="https://drive.google.com/open?id=0B0ChLbwT19XcOVZFdm5wNXA5ODg" ><b><i>Click here to download SentiWordnet 3.0</i></b></a></div>
+[Click here to download SentiWordnet 3.0](data/SentiWordNet_3.0.0.txt)
 
 ## Other material
 
